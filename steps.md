@@ -136,3 +136,5 @@ PublicIP:8080
 ARGOCD_USERNAME: admin
 ARGOCD_PASSWORD:
 
+connect your Argo to your repo and create the app 
+
